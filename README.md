@@ -33,7 +33,7 @@
 
 ## Currently
 
-- 🧪 **Meovv** — 스팀 출시를 준비 중인 데스크탑 게임
+- 🐾 데스크탑 컴패니언 앱 **두 개를 동시에** 개발 중 — `animalbar` · `PokeDesk`
 - 🚀 **AI/SW 마에스트로** 과정 참여 중 (한국정보산업연합회)
 - 🧭 게임 외 **서비스·해커톤 프로젝트**로 범위를 넓히는 중
 
@@ -60,7 +60,7 @@
 
 <br />
 
-**More** &nbsp; [`Meovv`](https://github.com/daeungchan/Meovv) · [`meovv.me`](https://meovv.me) · [`gotcha`](https://github.com/daeungchan/gotcha) · [`spinning-cat`](https://github.com/daeungchan/spinning-cat) · [`tile-asset-maker`](https://github.com/daeungchan/tile-asset-maker) · [`daily-assistant-langgraph`](https://github.com/JEuichan/daily-assistant-langgraph)
+**More** &nbsp; [`gotcha`](https://github.com/daeungchan/gotcha) · [`spinning-cat`](https://github.com/daeungchan/spinning-cat) · [`tile-asset-maker`](https://github.com/daeungchan/tile-asset-maker) · [`daily-assistant-langgraph`](https://github.com/JEuichan/daily-assistant-langgraph)
 
 ## Toolbox
 
