@@ -9,8 +9,8 @@
 <h1 align="center">JEuichan</h1>
 
 <p align="center">
-  <strong>Planning and building games, end to end.</strong><br />
-  <sub>기획부터 개발까지 직접 만들어 출시하는 것을 좋아합니다.</sub>
+  <strong>Ideas, shipped fast.</strong><br />
+  <sub>기획서로 끝내지 않고, 일단 만들어서 확인합니다.</sub>
 </p>
 
 <p align="center">
@@ -27,39 +27,49 @@
 
 부산대학교 **정보컴퓨터공학부**에서 공부하고 있는 정의찬입니다.
 
-아이디어를 기획서로 끝내지 않고 **실제로 출시되는 제품까지** 밀고 가는 과정에 관심이 많습니다.
-지금은 게임을 만들면서, 기획과 개발과 디자인을 한 사람이 어디까지 감당할 수 있는지 실험하고 있습니다.
+아이디어가 생기면 기획서를 길게 쓰기보다 **일단 만들어서 확인하는 쪽**을 택합니다. 2026년 7월부터 데스크탑 앱·웹·게임을 10여 개 만들었고, 그 과정에서 **AI를 기획·에셋 생성·구현까지 파이프라인 전체에 붙여 쓰는 방법**을 익혔습니다.
+
+혼자 또는 소수로 감당할 수 있는 범위를 넓히는 일, 그리고 **무엇을 만들지 정하고 끝까지 밀고 가는 일**에 관심이 있습니다.
 
 ## Currently
 
-- 🎮 스팀 출시를 목표로 게임 개발 중 — `Unity 6` · `C#`
+- 🧪 **Meovv** — 스팀 출시를 준비 중인 데스크탑 게임
 - 🚀 **AI/SW 마에스트로** 과정 참여 중 (한국정보산업연합회)
-- 🧭 AI 도구를 개발 워크플로에 붙이는 방법을 계속 다듬는 중
+- 🧭 게임 외 **서비스·해커톤 프로젝트**로 범위를 넓히는 중
 
 ## Selected work
 
-### 신규 스팀 게임 · 개발 중
+### [animalbar](https://github.com/daeungchan/animalbar) · 데스크탑 픽셀 동물 목장
 
-기획 · 개발 · 디자인을 직접 맡아 만들고 있는 데스크탑 게임입니다. 스팀 출시를 목표로 진행 중입니다.
+바탕화면에서 동물을 모으고 키우는 데스크탑 컴패니언 앱. 기획부터 아트·구현·배포까지 직접 맡았습니다.
 
-`기획 · 개발 · 디자인` &nbsp;·&nbsp; `C# · Unity 6` &nbsp;·&nbsp; `2026 —`
+`기획 · 개발 · 아트` &nbsp;·&nbsp; `C# · Unity 6` &nbsp;·&nbsp; `2026`
 
-- 콘텐츠 기획부터 구현까지 전 과정을 직접 담당
-- Supabase · AWS S3 · Steam Cloud 로 저장과 동기화 구성
-- Codex · Claude 를 개발 파이프라인에 상시 투입
+- 별도 [배포 저장소](https://github.com/daeungchan/animalbar-releases)를 두어 실제 릴리스까지 운영
+- AI 생성 파이프라인으로 픽셀 에셋을 제작
+
+### [PokeDesk](https://github.com/anjihong/PokeDesk) · 크로스플랫폼 데스크탑 펫
+
+투명 오버레이 창에 애니메이션 스프라이트를 띄우고 키 입력·클릭에 반응하는 데스크탑 펫. **4인 팀 프로젝트**입니다.
+
+`공동 최다 기여 (23 commits)` &nbsp;·&nbsp; `C# · Avalonia 11 · .NET 10 · SkiaSharp` &nbsp;·&nbsp; `2026`
+
+- **macOS 지원**을 담당 — 플랫폼별 전역 입력 후킹과 권한 처리를 연결
+- Windows 빌드를 Avalonia로 전환해 양 플랫폼이 같은 화면·픽셀 UI를 공유하도록 통합
+- 진화 연출 동기화, 도감 세대 탭 등 기능 단위로 이슈를 나눠 진행
 
 <br />
 
-**Also here** &nbsp; `daily-assistant-langgraph` · `ai-learning-app` · `my_streamlit_app` · `Algorithm`
+**More** &nbsp; [`Meovv`](https://github.com/daeungchan/Meovv) · [`meovv.me`](https://meovv.me) · [`gotcha`](https://github.com/daeungchan/gotcha) · [`spinning-cat`](https://github.com/daeungchan/spinning-cat) · [`tile-asset-maker`](https://github.com/daeungchan/tile-asset-maker) · [`daily-assistant-langgraph`](https://github.com/JEuichan/daily-assistant-langgraph)
 
 ## Toolbox
 
 | | |
 |---|---|
-| **Languages** | `Python` · `C#` · `C++` · `C` · `JavaScript` |
-| **Game** | `Unity 6` |
+| **Languages** | `C#` · `Python` · `TypeScript` · `JavaScript` · `C++` · `C` |
+| **Desktop · Game** | `Unity 6` · `Avalonia` · `.NET 10` |
 | **Backend · Cloud** | `Supabase` · `AWS S3` · `Steam Cloud` |
-| **AI** | `Claude` · `Codex` |
+| **AI** | `Claude` · `Codex` · `LangGraph` · 이미지 생성 기반 에셋 파이프라인 |
 
 ## Connect
 
