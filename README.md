@@ -39,28 +39,28 @@
 
 ## Selected work
 
-### [animalbar](https://github.com/daeungchan/animalbar) · 데스크탑 픽셀 동물 목장
+### [animalbar](https://github.com/daeungchan/animalbar-releases) · 데스크탑 픽셀 동물 목장
 
 바탕화면에서 동물을 모으고 키우는 데스크탑 컴패니언 앱. 기획부터 아트·구현·배포까지 직접 맡았습니다.
 
 `기획 · 개발 · 아트` &nbsp;·&nbsp; `C# · Unity 6` &nbsp;·&nbsp; `2026`
 
-- 별도 [배포 저장소](https://github.com/daeungchan/animalbar-releases)를 두어 실제 릴리스까지 운영
+- 소스 저장소는 팀 정책상 비공개이며, [배포 저장소](https://github.com/daeungchan/animalbar-releases)에서 README와 릴리스를 확인할 수 있습니다
 - AI 생성 파이프라인으로 픽셀 에셋을 제작
 
 ### [PokeDesk](https://github.com/anjihong/PokeDesk) · 크로스플랫폼 데스크탑 펫
 
-투명 오버레이 창에 애니메이션 스프라이트를 띄우고 키 입력·클릭에 반응하는 데스크탑 펫. **4인 팀 프로젝트**입니다.
+투명 오버레이 창에 애니메이션 스프라이트를 띄우고 키 입력·클릭에 반응하는 데스크탑 펫. **3인 팀 프로젝트**입니다.
 
-`공동 최다 기여 (23 commits)` &nbsp;·&nbsp; `C# · Avalonia 11 · .NET 10 · SkiaSharp` &nbsp;·&nbsp; `2026`
+`macOS 이식 담당` &nbsp;·&nbsp; `C# · Avalonia 11 · .NET 10 · SkiaSharp` &nbsp;·&nbsp; `2026 · 개발 진행 중`
 
 - **macOS 지원**을 담당 — 플랫폼별 전역 입력 후킹과 권한 처리를 연결
-- Windows 빌드를 Avalonia로 전환해 양 플랫폼이 같은 화면·픽셀 UI를 공유하도록 통합
+- Windows 전용(WPF) 빌드를 Avalonia로 전환해 양 플랫폼이 같은 화면·픽셀 UI를 공유하도록 작업 중 (`window_dev` 브랜치)
 - 진화 연출 동기화, 도감 세대 탭 등 기능 단위로 이슈를 나눠 진행
 
 <br />
 
-**More** &nbsp; [`gotcha`](https://github.com/daeungchan/gotcha) · [`spinning-cat`](https://github.com/daeungchan/spinning-cat) · [`tile-asset-maker`](https://github.com/daeungchan/tile-asset-maker) · [`daily-assistant-langgraph`](https://github.com/JEuichan/daily-assistant-langgraph)
+**More** &nbsp; [`hypoloop`](https://github.com/28-hypoloop/hypoloop) · [`daily-assistant-langgraph`](https://github.com/JEuichan/daily-assistant-langgraph) · [`ai-learning-app`](https://github.com/JEuichan/ai-learning-app)
 
 ## Toolbox
 
